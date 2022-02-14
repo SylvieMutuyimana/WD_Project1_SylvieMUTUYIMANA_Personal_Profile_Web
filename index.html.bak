@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="stylesheet.css">
+  <header> <br>
+    <h1> Sylvie MUTUYIMANA </h1>
+  </header>
+  <nav> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg" alt="Rwandan flag"> Rwandan | 
+      <img src="https://www.kindpng.com/picc/m/63-634081_png-file-svg-location-clipart-transparent-png.png" alt="location"> 20093 KG Street, Kigali, Rwanda | 
+      <img src="https://www.pngkit.com/png/detail/132-1329723_mobile-clip-art-at-mobile-icon-png-blue.png" alt="mobile"> +250786405038 <br> 
+      <img src="http://assets.stickpng.com/thumbs/58485771a6aca45b5a5c95b8.png" alt="email"> s.mutuyiman@alustudent.com | 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="LinkedIn"> LinkedIn: Sylvie Mutuyimana | 
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiWggMBDifvT954Mk3WaEfmnG9SnkwFZGmRGqIvulzbuAO-fGr7L-i7s__JffsrBR5Tc&usqp=CAU" alt="Hangouts"> Hangouts: s.mutuyiman </nav> 
+  <main> 
+    <div class="body">
+      <article> 
+        <h3> SUMMARY </h3> <hr> 
+        An aspiring computer engineer interested in hardware development, evaluating computer-related impacts to societies and expanding technology benefits to better environments. Currently, a second-year student pursuing a bachelor's degree in computer science at ALU.
+      </article>
+      <article>
+        <h3> EDUCATIONAL BACKGROUND </h3> <hr>
+          <h4> African Leadership University – Kigali, Rwanda(Jan 2021 – Present) </h4>
+            <div class="a"> Computer Science <br></div>
+            <div class="a"><i> Relevant Coursework: Database Management, Python & Java Programming, Computer Architecture, Web Development </i> </div>
+      </article>
+      <article>
+        <h3> PROFESSIONAL WORK EXPERIENCE </h3> <hr>
+          <h4> Head of Project Documentation (Aug 2018 - Jun 2019) </h4>
+            <div class="a"> SPECTRUM Project, SOS HGIC – Tema, Ghana <br></div>
+            <div class="a"><i> Headed the video-photography team of a SPECTRUM dubbed project focused on SDG-3: Good-Health and Well-Being to raise funds to purchase incubators to support the Neonatal Intensive Care Unit of Tema General Hospital. </i> </div> 
+          <h4> Leadership and Engineering projects (Aug 2018 – Aug 2018) </h4>
+            <div class="a"> ASHESI UNIVERSITY – Ghana  <br></div>
+            <div class="a"> 
+              I  practiced my leadership skills as a future leader and in the engineering focus, used them to develop the best fitting solutions to problems facing Africa and developed a smart house model with an advanced automatic system for controlling remote features to contribute to home security while preserving the environment. </div> 
+          <h4> Djing and Sound Management  (Feb 2020 - Aug 2020) </h4>
+            <div class="a"> SOS HGIC – Tema, Ghana <br></div>
+            <div class="a"><i> Held the role of the entertainment prefect and was in charge of all sound and video systems at school. I managed, assembled and operated the sound systems on different occasions such as choir rehearsals, gatherings. </i> </div> 
+            <div class="a"> ALU – Kigali, Rwanda<br></div>
+            <div class="a"><i> I was responsible for assembling, operating and maintaining the technical equipment used to amplify, enhance and mix for various shows and events held by ALU at the Mirror Hotel, and some at Mostar Hotel. </i> </div> 
+      </article>>
+      <article>
+        <h3> EXTRACURRICULAR ACTIVITIES </h3> <hr>
+          <h4>Mental Health Awareness, SOS CV Rwanda(Feb 2020 - Aug 2020) </h4>
+            <div class="a"> Gained knowledge on the various mental illnesses and practiced the most important first aids towards mental health, maintaining mental health, and helping those with mental illness. From these experiences, I have learnt how to take care of emergent panic attacks and help people with mental problems before seeking further help. </div> 
+          <h4> Zonta and Mogul Clubs, SOS HGIC (Aug 2017 – Jun 2020) </h4>
+            <div class="a">In the different projects meant for the community such as building houses for the poor women and facilitating sanitation in the neighboring schools, I worked in documentation and executing fundraising projects.</div>
+          <h4> Chess Club Secretary, SOS HGIC (Aug 2018 – Jun 2019) </h4>
+            <div class="a"> I worked very hard to organize and schedule meetings and encourage students to join the club </div> 
+          <h4> Public Relations Officer, Photography club (SOS HGIC Aug 2018 – Jun 2019) </h4>
+            <div class="a"> I worked hard to build a positive relationship between the club and students by initiating different activities, such as the Picture of the Month challenge, to encourage students to join the club while documenting school events and equipping interested individuals with photography lessons and skills. </div> 
+          <h4> DRAMA CAS, SOS HGIC Aug (2018 – Jun 2019) </h4>
+            <div class="a"> Acted as the lead character in the school play, which was very complicated and tough. The 4 months of preparation included many rehearsals, which I had to balance with my academics. Being part of the process and the presentation did not only boost my confidence level and public speaking but my love for creative writing. </div>  
+      </article>
+      <article>
+        <h3> SKILLS </h3> <hr>
+          <table> 
+            <td>Data Analytics </td> <td>(Databases: SPSS, MySQL) </td>
+            <td>Auditory skills and presentation skills </td> <td>Sustainability skills</td>
+          </table>
+      </article>
+      <article>
+        <h3> INTERESTS </h3> <hr>
+        <table> 
+          <td>Computer Networks </td> 
+          <td>Hardware development </td> 
+          <td>Sustainability practices  </td> 
+          <td>Women Empowerment</td>
+        </table>
+      </article>
+      <article>
+        <h3> LANGUAGES </h3> <hr>
+          <table>
+            <tr> <td> Language </td> <td> Proficiency   </td> </tr>
+            <tr> <td> Kinyarwanda </td> <td> Native   </td> </tr>
+            <tr> <td> English  </td> <td> Expert </td>  </tr>
+            <tr> <td> French </td> <td> Intermediate </td> </tr>
+            <tr> <td> Swahili </td> <td> Beginner </td> </tr>
+          </table>     
+      </article>
+    </div>
+  </main>
+  <footer>
+    <i> <p><br>Author: Sylvie MUTUYIMANA</p>
+      <p>date: 14th February 2022</p> </i>
+  </footer>
+</html>

@@ -1,0 +1,45 @@
+body {
+  background-color: powderblue;
+}
+main{
+  font-family: system-ui; 
+  background: white;
+  font-family: system-ui;
+  background: white;
+  color: black;
+  text-align: left;
+}
+h1{
+  text-align: center;
+  color: 	#00008B;
+}
+img{
+  width: 13px;
+}
+nav{
+  font-weight: normal;
+  font-size: 20px;
+  color: 	black;
+  text-align: center;
+}
+div.body{  
+  text-indent: 10px;
+}
+hr{
+  border-top: 2px solid black;
+}
+div.a{
+  text-indent: 30px;
+}
+table{  
+  width: 100%;
+  text-align: center;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  border: 1px solid black;
+}
+footer{
+    text-align: right;
+}
