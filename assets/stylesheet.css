@@ -13,9 +13,7 @@ h1{
   text-align: center;
   color: 	#00008B;
 }
-img{
-  width: 13px;
-}
+
 nav{
   font-weight: normal;
   font-size: 20px;
@@ -23,13 +21,32 @@ nav{
   text-align: center;
 }
 div.body{  
-  text-indent: 10px;
+  margin: auto;
+  width: 60%;
+  border: 3px solid #73AD21;
+  padding: 10px;
 }
 hr{
   border-top: 2px solid black;
+  width: 60%;
+  margin-left:0
 }
 div.a{
-  text-indent: 30px;
+  margin: auto;
+  width: 90%;
+  padding: 5px;
+}
+div.titles{
+  margin: auto;
+  width: 95%;
+}
+div.photography{
+	 width: 13px;
+}
+div.table{
+  margin: auto;
+  width: 30%;
+  padding: 5px;
 }
 table{  
   width: 100%;
