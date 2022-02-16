@@ -1,2 +1,0 @@
-# WD_Project1_SylvieMUTUYIMANA_Personal_Profile_Web
-My personal profile page
